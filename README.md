@@ -1,7 +1,8 @@
 <h1 align="center">你好👋, I'm Zhujun Tan (竹君谭)</h1>
 <h4 align="left">I'm a recent graduate with a Master's in Data Science from Erasmus University Rotterdam. My academic journey started with a Bachelor's in Business, where I specialized in Accounting. I bring a unique blend of technical skills and a business mindset. I'm fluent in English, Thai, and Chinese, which allows me to connect with diverse teams and cultures seamlessly.</h4>
 
-- 🔭 I’m currently working on [stock prediction project](https://github.com/RuochenT/stock-prediction)
+- 🔭 I’m currently working on [Stock Prediction with Time Series, Machine Learning, and Deep Learning](https://github.com/RuochenT/stock-prediction) 
+- 🔭 and also working on [Sales Analytics Dashboard with Tableau and SQL](https://github.com/RuochenT/SalesAnalytics)
 - 📫 How to reach me **zhujuntan98@gmail.com**
 - 🏠 I am based in China and Thailand. 
 - ⚡ One thing about me! **I enjoy learning new things every day:D**
@@ -16,3 +17,6 @@
 href="https://www.r-project.org" target="_blank"rel="noreferrer"> <img 
 src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="40" height="40"/> 
 </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+
+
