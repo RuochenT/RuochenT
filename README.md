@@ -2,15 +2,22 @@
 <h4 align="left">I'm a recent graduate with a Master's in Data Science from Erasmus University Rotterdam. My academic journey started with a Bachelor's in Business, where I specialized in Accounting. I bring a unique blend of technical skills and a business mindset. I'm fluent in English, Thai, and Chinese, which allows me to connect with diverse teams and cultures seamlessly.</h4>
 
 - 🔭 I’m currently working on [Stock Prediction with Time Series, Machine Learning, and Deep Learning](https://github.com/RuochenT/stock-prediction) 
-- 🔭 and also working on [Sales Analytics Dashboard with Tableau and SQL](https://github.com/RuochenT/SalesAnalytics)
 - 📫 How to reach me **zhujuntan98@gmail.com**
 - 🏠 I am based in China and Thailand. 
 - ⚡ One thing about me! **I enjoy learning new things every day:D**
 - 🦾 I am actively seeking opportunities as a junior data scientist or data analyst, particularly within the financial or investment industries.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ruochent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruochent" height="30" width="40" /></a>
+<h3 style="text-align: left;">How to reach me: </h3>
+<p style="text-align: left;">
+    <a href="https://linkedin.com/in/ruochent" target="_blank" rel="noreferrer" >
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="mailto:zhujuntan98@gmail.com">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" alt="Email" height="40" width="40" style="vertical-align: middle;">
+    </a>
+</p>
+
+                                                                                                                                                                                                                                                                                                              
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a  
