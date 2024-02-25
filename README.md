@@ -7,7 +7,7 @@
 - ⚡ One thing about me! **I enjoy learning new things every day:D**
 - 🦾 I am actively seeking opportunities as a junior data scientist or data analyst, particularly within the financial or investment industries.
 
-<h3 style="text-align: left;">How to reach me: </h3>
+<h3 style="text-align: left;">Let's connect: </h3>
 <p style="text-align: left;">
     <a href="https://linkedin.com/in/ruochent" target="_blank" rel="noreferrer" >
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
