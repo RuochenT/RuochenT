@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Stock Prediction with Time Series, Machine Learning, and Deep Learning](https://github.com/RuochenT/stock-prediction) 
 - 📫 How to reach me **zhujuntan98@gmail.com**
-- 🏠 I am based in China and Thailand. 
+- 🏠 I am now based in China. 
 - ⚡ One thing about me! **I enjoy learning new things every day:D**
 - 🦾 I am actively seeking opportunities as a junior data scientist or data analyst, particularly within the financial or investment industries.
 
